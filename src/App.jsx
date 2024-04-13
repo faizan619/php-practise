@@ -6,7 +6,7 @@ import Sidebar from "./components/Sidebar";
 
 function App() {
   return (
-    <div className="relative flex w-full">
+    <div className="relative flex w-full h-screen overflow-hidden">
       <div className="hidden sm:flex">
         <Sidebar />
       </div>

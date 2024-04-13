@@ -2,7 +2,7 @@ import React from "react";
 
 const Dashboard = () => {
   return (
-    <div className="mt-4 pl-6 font-outfit text-black1">
+    <div className="mt-4 pl-6 font-outfit text-black h-screen overflow-y-scroll">
       <h1 className="text-4xl font-semibold">Dashboard</h1>
       <h2 className="mt-5 text-2xl font-semibold">
         {" "}
